@@ -1,6 +1,6 @@
 # College Lab Programs
 
-This repository contains C++ programs completed during my college laboratory classes.
+My C and C++ programs completed during college laboratory classes.
 
-## Language
+## Languages
 - C++
