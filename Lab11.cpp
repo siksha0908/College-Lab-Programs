@@ -1,4 +1,4 @@
-//Write a program to calculate the
+//Write a program to calculate the total marks of a student in three theory subjects and sports using hybrid inheritance (virtual base class).
 
 #include <iostream>
 #include <cstring>
